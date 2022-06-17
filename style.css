@@ -1,0 +1,33 @@
+canvas{
+    border-radius: 25px;
+    margin-top: 80px;
+    border:10px lightsalmon solid ;
+}
+body{
+    background: linear-gradient(pink, plum,purple);
+}
+.heading{
+    font-size: 24px;
+    font-family: monospace;
+    letter-spacing: 3px;
+    font-weight: bold;
+    width: 100%;
+    color: brown;
+    box-shadow: 5px 5px 5px red;
+}
+.NOTE{
+    font-size: 15px;
+    color: orangered;
+}
+.copyright-footer{
+    position: fixed;
+    font-size: small;
+    font-weight: bolder;
+    word-spacing: 10px;
+    letter-spacing: 5px;
+    color: purple;
+    background-color: plum;
+    margin-top: 34%;
+    text-align: center;
+    width: 100%;    
+}
